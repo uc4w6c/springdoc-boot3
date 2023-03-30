@@ -1,0 +1,13 @@
+package com.example.springdocboot3;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringdocBoot3Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringdocBoot3Application.class, args);
+	}
+
+}
