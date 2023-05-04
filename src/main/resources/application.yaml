@@ -8,3 +8,4 @@
 #    enabled: true
 #    operationsSorter: method
 #    tagsSorter: method
+springdoc.swagger-ui.tryItOutEnabled: false
