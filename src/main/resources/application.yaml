@@ -8,4 +8,5 @@
 #    enabled: true
 #    operationsSorter: method
 #    tagsSorter: method
-springdoc.swagger-ui.tryItOutEnabled: false
+# springdoc.swagger-ui.tryItOutEnabled: false
+# springdoc.swagger-ui.syntaxHighlight.activated: true
