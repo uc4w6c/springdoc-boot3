@@ -10,3 +10,5 @@
 #    tagsSorter: method
 # springdoc.swagger-ui.tryItOutEnabled: false
 # springdoc.swagger-ui.syntaxHighlight.activated: true
+springdoc.default-support-form-data: true
+springdoc.pre-loading-enabled: true
