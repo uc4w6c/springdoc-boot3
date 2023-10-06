@@ -13,3 +13,4 @@
 # springdoc.default-support-form-data: true
 # springdoc.pre-loading-enabled: true
 # springdoc.api-docs.version: openapi_3_1
+springdoc.default-flat-param-object: true
